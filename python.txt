@@ -1,2 +1,3 @@
 Python Commands
-
+1.Data types
+2.Input functions.
